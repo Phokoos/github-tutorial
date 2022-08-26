@@ -1,6 +1,18 @@
 body {
 	background-color: red;
+	color: rgba(202, 96, 168, 0.311);
+}
+
+.test-div {
+	color: red;
+}
+
+/* Wow */
+.test-h1 {
 	color: blue;
 }
 
-
+/* Study */
+.test-p1 {
+	color: pink;
+}
