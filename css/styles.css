@@ -42,3 +42,34 @@ body {
 .photo-link {
 	color: #20387A;
 }
+
+.tables-cloud-services,
+.train-tables {
+	color: #20387A;
+	padding-bottom: 20px;
+}
+
+.tables-cloud-services>table,
+.train-tables>table {
+	border-collapse: collapse;
+}
+
+.tables-cloud-services>table th,
+.tables-cloud-services>table td,
+.train-tables>table th,
+.train-tables>table td {
+	padding: 10px;
+	border: 1px solid #2a2a2a;
+}
+
+.photos-format {
+	color: #20387A;
+}
+
+.test {
+	color: #4172FA
+}
+
+.verse {
+	color: #20387A;
+}
